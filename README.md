@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🚀 Привет! Я Лысанов Игорь
 
-<!--
-**IgorAlekseevich/IgorAlekseevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мою страницу GitHub!
 
-Here are some ideas to get you started:
+## Мои социальные сети
+- Telegram: [@MISANTHROPICMOKUJIN](https://t.me/MISANTHROPICMOKUJIN)
+- GitHub: [IgorAlekseevich](https://github.com/IgorAlekseevich)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Портфолио для работодателей 
+➡️ Google Docs: [Портфолио для подтверждения моих профессиональных навыков и что бы я сам о них не забывал]([https://docs.google.com/document/d/YOUR_DOCUMENT_ID/edit?usp=sharing](https://drive.google.com/drive/folders/1aPYGnZ5DD1st8NpAnQUbYkNdHw4VfOrn?usp=drive_link)
+
+---
+
+📌 Спасибо, что посетили мой профиль! Если хотите обсудить сотрудничество или задать вопросы — обращайтесь. Буду рад знакомству и продуктивному общению! ✨
